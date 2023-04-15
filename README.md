@@ -1,5 +1,5 @@
 # computer-languages-app
-Simple app that provides basic information about various programming language.
+Simple app that provides basic information about various programming languages.
 
 ![](languages-demo.gif)
 
